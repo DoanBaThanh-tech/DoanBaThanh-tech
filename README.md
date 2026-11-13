@@ -22,8 +22,19 @@ Hello! I am **Doan Ba Thanh**, an Information Systems student at **Ho Chi Minh C
 - 📊 **Current GPA:** `3.0 / 4.0`
 - 🌐 **English Proficiency:** **TOEIC 680**
 - 📱 **Core Focus:** Mobile App Development (Flutter / Dart) & Web Development (React / TypeScript)
-- 💡 **Experience:** Completed multiple practical school projects on mobile apps and web management systems.
+- 💼 **Experience:** 
+  - 3-month internship at **OPC Pharmaceutical Joint Stock Company**.
+  - Completed multiple practical school projects on mobile apps and web management systems.
 - 📫 **Contact:** [thanh07122602@gmail.com](mailto:thanh07122602@gmail.com)
+
+---
+
+### 🤝 Soft Skills & Teamwork
+
+- **Teamwork:** Experienced in working effectively in teams throughout university.
+- **Task Management:** Skilled at dividing tasks fairly and finishing projects ahead of deadlines.
+- **Growth Mindset:** Always willing to ask questions to learn when facing new problems.
+- **Supportive:** Always ready to help and support teammates to achieve common goals.
 
 ---
 
