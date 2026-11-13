@@ -46,24 +46,6 @@ Hello! I am **Doan Ba Thanh**, an Information Systems student at **Ho Chi Minh C
 
 ### 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/DoanBaThanh-tech/OPC-MaintenanceApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DoanBaThanh-tech&repo=OPC-MaintenanceApp&theme=tokyonight&hide_border=true" alt="OPC-MaintenanceApp" />
-  </a>
-  <a href="https://github.com/DoanBaThanh-tech/OPC-MaintenanceAPI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DoanBaThanh-tech&repo=OPC-MaintenanceAPI&theme=tokyonight&hide_border=true" alt="OPC-MaintenanceAPI" />
-  </a>
-  <a href="https://github.com/DoanBaThanh-tech/english-learning-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DoanBaThanh-tech&repo=english-learning-system&theme=tokyonight&hide_border=true" alt="english-learning-system" />
-  </a>
-  <a href="https://github.com/DoanBaThanh-tech/katinat-flutter-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DoanBaThanh-tech&repo=katinat-flutter-app&theme=tokyonight&hide_border=true" alt="katinat-flutter-app" />
-  </a>
-  <a href="https://github.com/DoanBaThanh-tech/opc-pms">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DoanBaThanh-tech&repo=opc-pms&theme=tokyonight&hide_border=true" alt="opc-pms" />
-  </a>
-</div>
-
 | Project | Core Technologies | Description |
 | :--- | :--- | :--- |
 | **[OPC-MaintenanceApp](https://github.com/DoanBaThanh-tech/OPC-MaintenanceApp)** | `Dart` • `Flutter` | Mobile app for tracking and managing maintenance processes. |
